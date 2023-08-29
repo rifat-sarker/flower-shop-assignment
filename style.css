@@ -72,6 +72,16 @@ body {
     margin-top: 30px;
     padding: 20px 30px 2px 30px;
 }
+.additional-section{
+    display: flex;
+    padding: 150px;
+    background-color: rgb(200, 228, 218);
+    gap: 30px;
+}
+.new-image{
+    height: 300px;
+    width: 400px;
+}
 /* vector sections starts */
 .vector-section{
     display: flex;
