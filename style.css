@@ -102,3 +102,33 @@ body {
     width: 250px;
     height: 300px;
 }
+
+/* subscribe sections starts */
+.subscribe-section {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 100px;
+    background-image: url('./Flower\ Asset/Rectangle 9.png');
+    /* width: 1OO0px;
+    height: 300px; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+}
+
+input[type="email"] {
+    background: #FFF;
+    height: 30px;
+    width: 40%;
+    border-radius: 5px;
+}
+
+.btn-subscribe {
+    background: #E55473;
+    color: #FFFFFF;
+    height: 35px;
+    border-radius: 5px;
+    padding: 10px 15px;
+    align-items: center;
+}
