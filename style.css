@@ -71,3 +71,13 @@ body {
     margin-top: 30px;
     padding: 20px 30px 2px 30px;
 }
+
+/* discount section starts */
+.discount-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 250px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
