@@ -132,3 +132,19 @@ input[type="email"] {
     padding: 10px 15px;
     align-items: center;
 }
+
+footer {
+    text-align: center;
+    background: #111010;
+    color: white;
+    padding: 60px;
+}
+.pink-style{
+    color: #E55473;
+}
+.white-style{
+    color: #fff;
+}
+.footer-desc{
+    color: rgba(255, 255, 255, 0.40);
+}
