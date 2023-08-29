@@ -20,6 +20,7 @@ body {
 .heading-desc {
     font-size: 15px;
     padding: 5px 0px;
+    color: rgba(39, 39, 39, 0.60);
 }
 
 .img {
@@ -71,7 +72,17 @@ body {
     margin-top: 30px;
     padding: 20px 30px 2px 30px;
 }
-
+/* vector sections starts */
+.vector-section{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 40px; 
+    background: rgba(39, 39, 39, 0.05);
+    padding: 130px;
+    margin-top: 70px;
+    color: rgba(39, 39, 39, 0.80);
+}
 /* discount section starts */
 .discount-section {
     display: flex;
